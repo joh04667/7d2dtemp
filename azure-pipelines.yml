@@ -7,7 +7,6 @@ trigger:
 - batch
 
 pool:
-  demands: Limit -equals DisAbleParallel
   name: Default
 
 steps:
